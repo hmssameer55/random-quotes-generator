@@ -1,0 +1,46 @@
+ body{
+    background-color:slateblue;
+    text-align: center;
+} 
+h1{
+    font-family: 'Acme', sans-serif;
+}
+.quote{
+    color: slateblue; 
+    font-family: 'Mochiy Pop P One', sans-serif;  
+}
+
+.author{
+    color: slateblue; 
+    font-family: 'Caveat', cursive;
+}
+
+.fa-quote-left, .fa-quote-right {
+    font-size: 30px;
+}
+
+.quotebtn{
+    border: 1px solid black;
+    color: snow;
+    box-shadow: 5px 10px #888888;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:large;
+    font-weight: bold;
+}
+
+.quotebtn:hover{
+    color: snow;
+    box-shadow: 5px 5px #888888;
+}
+
+.box{
+    background-color:wheat;
+     padding: 70px 10px;
+     border-radius: 15px;
+}
+
+p{
+    font-size: x-large;
+    font-weight: 800;
+}
+
